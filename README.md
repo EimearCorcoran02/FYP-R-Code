@@ -44,7 +44,7 @@ This repository contains the code used in my thesis, **"Investigating the Factor
 
 ## Prerequisites
 
-Ensure you have R (version ≥ 4.0) installed along with the following packages:
+Ensure you have R installed along with the following packages:
 
 - dplyr
 - mice
