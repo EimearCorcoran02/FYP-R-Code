@@ -30,8 +30,14 @@ This repository contains the code used in my thesis, **"Investigating the Factor
 - **Neural Networks .R**  
   Implements Neural Network modeling for yield prediction.
 
+  - **Support Vector Machine .R**  
+  Implements Support Vector Machine modeling for yield prediction.
+
 - **Random forest with SMOTE.R**  
   Applies Random Forest with SMOTE to improve class balance.
+
+  - **Random forest without SMOTE.R**  
+  Applies Random Forest.
 
 - **Data Cleaning.R**  
   Performs data cleaning, conversion, and imputation using MICE.
